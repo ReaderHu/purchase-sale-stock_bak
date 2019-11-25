@@ -1,4 +1,4 @@
-package com.systop.pss.common;
+package com.systop.pss.common.constants;
 
 public class Contents {
 
