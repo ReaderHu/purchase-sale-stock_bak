@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 10.0.1
+Implementation-Title: pss-user
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.systop.pss
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/pss-parents/pss-user
+Created-By: Maven Integration for Eclipse
+
