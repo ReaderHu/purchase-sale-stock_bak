@@ -11,8 +11,7 @@ import com.systop.pss.common.vo.R;
 public class UserController {
 
 	@RequestMapping("/login")
-	public R login(@RequestParam(name="userName",required=true,value="登录用户")String userName
-			,@RequestParam(name="password",required=true,value="密码")String password) {
+	public R login(String userName,String password) {
 		
 		if (!userName.equals("admin") || !password.equals("admin")) {
 			System.out.println("用户登录失败，账号或者密码错误");
